@@ -1,4 +1,8 @@
 _repo: A-Sister-of-the-Red-Cross-A-Tale-of-the-South-African-War_47705
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47705-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Meade, L. T.
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47705#A-Sister-of-the-Red-Cross-A-Tale-of-the-South-African-War
 gutenberg_issued: '2014-12-19'
 gutenberg_type: Text
 identifiers:
